@@ -1,0 +1,66 @@
+{
+
+"outputFormat": "JSON",
+
+"data": [
+
+{
+
+"manufacturingBatch": "MBatch1",
+
+"chipId": "ChipID1",
+
+"activationStatus": true,
+
+"customAttributes": {
+
+"height": "100mm",
+
+"width": "200mm"
+
+}
+
+},
+
+{
+
+"manufacturingBatch": "MBatch2",
+
+"chipId": "ChipID2",
+
+"activationStatus": true,
+
+
+
+"customAttributes": {
+
+"height": "100mm",
+
+"width": "200mm"
+
+}
+
+},
+
+{
+
+"manufacturingBatch": "MBatch3",
+
+"chipId": "ChipID3",
+
+"activationStatus": true,
+
+
+"customAttributes": {
+
+"height": "100mm",
+
+"width": "200mm"
+
+}
+
+}
+
+]
+
+}

@@ -1,0 +1,32 @@
+ {
+    "data": [
+        {
+            "coinBatch": "RBatch",
+            "coinId": "COINID1",
+            "serialNo": "COINJU14",
+            "customAttributes": {
+                "first": "first",
+                "second": "second"
+            }
+        },
+        {
+            "coinBatch": "RBatch",
+            "coinId": "COINID2",
+            "serialNo": "COINJU15",
+            "customAttributes": {
+                "first": "first",
+                "second": "second"
+            }
+        },
+        {
+            "coinBatch": "RBatch",
+            "coinId": "COINID3",
+            "serialNo": "COINJU16",
+            "customAttributes": {
+                "first": "first",
+                "second": "second"
+            }
+        }
+    ],
+    "outputFormat": "JSON"
+}

@@ -1,0 +1,80 @@
+{
+    "outputFormat": "JSON",
+    "data": [
+        {
+            "manufacturingBatch": "MBatch1",
+            "chipId": "ChipID1",
+            "brandName": "GG Wine",
+            "productType": "Wine",
+            "productId": "GGWXYZ",
+            "journeyTitle": "Cap Manufacturer",
+            "journeyLocation": "Factory A",
+            "journeyDate": "2020-02-07T06:57:03.381Z",
+            "nfcBatch": "NFCBatch",
+            "coinId": "COINID1",
+            "nfcBlockChainHash": "NFCHASH1",
+            "brandLogo": "https://s3-ap-southeast-2.amazonaws.com/dev-gg.bafsolution.com/ProductTemplateIcons/baf_logo.png",
+            "productImages": [
+                "https://s3-ap-southeast-2.amazonaws.com/sta-gg.bafsolution.com/ProductDefaultImages/d9ef0b63-246f-4699-8941-66bbb110c319.jpg",
+                "https://s3-ap-southeast-2.amazonaws.com/dev-gg.bafsolution.com/ProductDefaultImages/Wine_2.png"
+            ],
+            "manufacturingName": "GG Cap Industries",
+            "manufacturingCountry": "Australia",
+            "expiryDate": "Expirydate1",
+            "customAttributes": {
+                "height": "100mm",
+                "width": "200mm"
+            }
+        },
+        {
+            "manufacturingBatch": "MBatch2",
+            "chipId": "ChipID2",
+            "brandName": "GG Wine",
+            "productType": "Wine",
+            "productId": "GGWXYZ",
+            "journeyTitle": "Cap Manufacturer",
+            "journeyLocation": "Factory A",
+            "journeyDate": "2020-02-07T06:57:03.381Z",
+            "nfcBatch": "NFCBatch",
+            "coinId": "COINID2",
+            "nfcBlockChainHash": "NFCHASH2",
+            "brandLogo": "https://s3-ap-southeast-2.amazonaws.com/dev-gg.bafsolution.com/ProductTemplateIcons/baf_logo.png",
+            "productImages": [
+                "https://s3-ap-southeast-2.amazonaws.com/sta-gg.bafsolution.com/ProductDefaultImages/d9ef0b63-246f-4699-8941-66bbb110c319.jpg",
+                "https://s3-ap-southeast-2.amazonaws.com/dev-gg.bafsolution.com/ProductDefaultImages/Wine_2.png"
+            ],
+            "manufacturingName": "GG Cap Industries",
+            "manufacturingCountry": "Australia",
+            "expiryDate": "Expirydate2",
+            "customAttributes": {
+                "height": "100mm",
+                "width": "200mm"
+            }
+        },
+        {
+            "manufacturingBatch": "MBatch3",
+            "chipId": "ChipID3",
+            "brandName": "GG Wine",
+            "productType": "Wine",
+            "productId": "GGWXYZ",
+            "journeyTitle": "Cap Manufacturer",
+            "journeyLocation": "Factory A",
+            "journeyDate": "2020-02-07T06:57:03.381Z",
+            "nfcBatch": "NFCBatch",
+            "coinId": "COINID3",
+            "nfcBlockChainHash": "NFCHASH3",
+            "brandLogo": "https://s3-ap-southeast-2.amazonaws.com/dev-gg.bafsolution.com/ProductTemplateIcons/baf_logo.png",
+            "productImages": [
+                "https://s3-ap-southeast-2.amazonaws.com/dev-gg.bafsolution.com/ProductDefaultImages/Wine_1.png",
+                "https://s3-ap-southeast-2.amazonaws.com/dev-gg.bafsolution.com/ProductDefaultImages/Wine_2.png"
+            ],
+            "manufacturingName": "GG Cap Industries",
+            "manufacturingCountry": "Australia",
+            "expiryDate": "Expirydate3",
+            "customAttributes": {
+                "height": "100mm",
+                "width": "200mm"
+            }
+        }
+    ]
+}

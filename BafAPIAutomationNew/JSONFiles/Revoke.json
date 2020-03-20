@@ -1,0 +1,10 @@
+{
+   
+    "outputFormat" : "JSON",
+    "data" : [
+        {
+          "NAME": "ID",
+    		"reason": "coin id is fake"
+        }
+    ]
+}

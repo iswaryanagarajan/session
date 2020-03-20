@@ -1,0 +1,87 @@
+{
+
+"outputFormat": "JSON",
+
+"data": [
+
+{
+
+"nfcBatch": "NFCBatch",
+
+"coinId": "COINID1",
+
+"chipId": "ChipID1",
+
+"chipType": "private",
+
+"coinBatch": "RBatch",
+
+"customAttributes": {
+
+"name":"NTAG 424 DNA",
+
+"memory": "416 bytes",
+
+"cryptography": "Standard AES-128",
+
+"randomId":true
+
+}
+
+},
+
+{
+
+"nfcBatch": "NFCBatch",
+
+"coinId": "COINID2",
+
+"chipId": "ChipID2",
+
+"chipType": "private",
+
+"coinBatch": "RBatch",
+
+"customAttributes": {
+
+"name":"NTAG 424 DNA",
+
+"memory": "416 bytes",
+
+"cryptography": "Standard AES-128",
+
+"randomId":true
+
+}
+
+},
+
+{
+
+"nfcBatch": "NFCBatch",
+
+"coinId": "COINID3",
+
+"chipId": "ChipID3",
+
+"chipType": "private",
+
+"coinBatch": "RBatch",
+
+"customAttributes": {
+
+"name":"NTAG 424 DNA",
+
+"memory": "416 bytes",
+
+"cryptography": "Standard AES-128",
+
+"randomId":true
+
+}
+
+}
+
+]
+
+} 
